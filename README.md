@@ -2,7 +2,7 @@
 
 ### Este projeto foi criado para fins de estudo no qual será realizado um CRUD: 
 
-## C - REATE
+## C - reate
 ## R - ead
 ## U - pdate
 ## D - elete
